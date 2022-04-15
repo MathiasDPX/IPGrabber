@@ -23,3 +23,4 @@ Pour la mettre en place rien de plus simple.
 - Télécharger [index_file.php](https://github.com/MoiEtMoiPuisMoi/IPGrabber/blob/2b88b98d17be81a86a80441696cfdd7f4c97a6de/index_file.php)
 - Changer $filename si vous voulez un nom de fichier log different
 - Eventuellement changer $redirect si vous voulez changer l'URL de redirection
+- Le mettre sur votre server et c'est fini
