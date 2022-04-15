@@ -1,5 +1,5 @@
 # IPGrabber
-Un IP Grabber en PHP qui redirige l'utilisateur sur un rickroll (customisable
+Un IP Grabber en PHP qui redirige l'utilisateur sur un rickroll (customisable)
 
 # Comment l'utiliser
 
